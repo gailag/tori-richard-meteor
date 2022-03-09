@@ -1,0 +1,32 @@
+.ui.borderless.topmenu{
+  color: #1c1d1d;
+  border: none;
+  box-shadow: none;
+  margin-top: 20px;
+}
+
+.main.body {
+  color:#231f20;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.ui.label.click {
+  position: relative;
+  width: 50%;
+  bottom: 50px;
+  text-align: center;
+  background-color: #2fc1d4;
+  color: white;
+}
+
+.footer-background {
+  background-color: #f5f3e9;
+  color: #231f20;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.facebook.icon, .instagram.icon {
+  color: #00b6cc;
+}
